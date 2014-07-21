@@ -1,7 +1,7 @@
 # VIM Accumulating Cheat Sheet
 
 ## Seeking
- - Find (fwd) [char] on current line: <kbd>f[char]</kbd>
+ - Find (fwd) [char] on current line: <kbd>f</kbd><kbd>[char]</kbd>
  - Back to location before search: <kbd>Ctrl</kbd><kbd>O</kbd>
 
 ## Tabs
